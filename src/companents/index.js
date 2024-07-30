@@ -1,0 +1,9 @@
+export {default as Header} from "./header/Header";
+export {default as Hero} from "./hero/Hero";
+export {default as About} from "./about/About";
+export {default as Services} from "./services/services";
+export {default as Experience} from "./experience/experience";
+export {default as Contact} from "./contact/contact";
+export {default as Testimonials} from "./testimonials/testimonials";
+export {default as Blog} from "./blog/blog";
+export {default as Footer} from "./footer/Footer";
